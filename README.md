@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Design Mockup Demos
 
-[Showcase on laptop]: https://github.com/ziruihao/spinach-angels/blob/master/assets/laptop.png "Showcase on Laptop"
+![Laptop][laptop]
 
-[Skew]: https://github.com/ziruihao/spinach-angels/blob/master/assets/skew.png "Skew"
+![Skew][skew]
+
+[laptop]: https://github.com/ziruihao/spinach-angels/blob/master/assets/laptop.png "Showcase on Laptop"
+
+[skew]: https://github.com/ziruihao/spinach-angels/blob/master/assets/skew.png "Skew"
