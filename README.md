@@ -1,10 +1,13 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ziruihao/spinach-angels/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are redesigning [Spinach Angels](http://spinachangels.com) to refresh their branding. This site will document the design progress and showcase some mockups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can reach us at:
 
-### Design Mockup Demos
+(e): zirui.hao.22@dartmouth.edu
+(p): +1 860-301-7761
+
+### Design Showcase
 
 ![Laptop][laptop]
 
