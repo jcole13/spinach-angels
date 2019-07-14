@@ -18,4 +18,4 @@ You can reach us at:
 
 [skew]: http://zirayhao.com/spinach-angels/assets/skew.png "Skew"
 
-<img src="http://zirayhao.com/spinach-angels/assets/skew.png">
+<img src="http://zirayhao.com/spinach-angels/assets/skew.png" width="600px">
