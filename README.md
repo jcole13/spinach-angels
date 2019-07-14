@@ -14,6 +14,6 @@ You can reach us at:
 
 ![Skew][skew]
 
-[laptop]: https://github.com/ziruihao/spinach-angels/blob/master/assets/laptop.png "Showcase on Laptop"
+[laptop]: http://zirayhao.com/spinach-angels/assets/laptop.png "Showcase on Laptop"
 
-[skew]: https://github.com/ziruihao/spinach-angels/blob/master/assets/skew.png "Skew"
+[skew]: http://zirayhao.com/spinach-angels/assets/skew.png "Skew"
