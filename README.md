@@ -10,12 +10,6 @@ You can reach us at:
 
 ### Design Showcase
 
-![Laptop][laptop]
-
-![Skew][skew]
-
-[laptop]: http://zirayhao.com/spinach-angels/assets/laptop.png "Showcase on Laptop"
-
-[skew]: http://zirayhao.com/spinach-angels/assets/skew.png "Skew"
+<img src="http://zirayhao.com/spinach-angels/assets/laptop.png" width="600px">
 
 <img src="http://zirayhao.com/spinach-angels/assets/skew.png" width="600px">
