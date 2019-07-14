@@ -10,6 +10,6 @@ You can reach us at:
 
 ### Design Showcase
 
-<img src="http://zirayhao.com/spinach-angels/assets/laptop.png" width="600px"/>
+<img src="http://zirayhao.com/spinach-angels/assets/laptop.png" width="500px"/>
 
 <img src="http://zirayhao.com/spinach-angels/assets/skew.png" width="600px"/>
